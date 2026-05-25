@@ -1,1 +1,6 @@
-Hello Everyone!Hello Everyone!
+Hello Everyone!
+I am learning c++
+I am also learning dsa
+I will learn dsa in pseudo code with striver
+Then i will do dsa in python,c and c++
+Value of x: 10 and y: 34
