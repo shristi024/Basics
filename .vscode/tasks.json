@@ -29,6 +29,20 @@
                 "isDefault": true
             },
             "problemMatcher": []
+        },
+        {
+            "label": "run python",
+            "type": "shell",
+            "command": "cmd",
+            "args": [
+                "/c",
+                "python \"${file}\" < input.txt > output.txt"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+             "problemMatcher": []
         }
     ]
 }

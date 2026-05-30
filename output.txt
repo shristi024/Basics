@@ -1,6 +1,6 @@
-Hello Everyone!
-I am learning c++
-I am also learning dsa
-I will learn dsa in pseudo code with striver
-Then i will do dsa in python,c and c++
-Value of x: 10 and y: 34
+Enter your name: Shristi
+What is your favorite animal: cat
+What is your favorite color: black
+What is your favorite number: 4
+Hello Shristi
+Do you want a black cat with 4 legs?
